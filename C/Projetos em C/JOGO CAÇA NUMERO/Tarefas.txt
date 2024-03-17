@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+
+FEITO:Fazer uma varíavel para receber um QTD de cada tentativa, nesse caso cada tentativa vai ter seu QTD.
+Aí se o QTD das três tentavivas for igual a 3 o usuário acertou, caso contrário ele perdeu porque errou 
+uma ou + (mostra qual tentativa ele errou);
+
+FEITO:Comentar o código;
+
+Colocar a matrícula para aparecer em todas as tentativas;

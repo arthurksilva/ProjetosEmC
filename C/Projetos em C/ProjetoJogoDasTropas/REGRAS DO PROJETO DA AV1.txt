@@ -1,0 +1,20 @@
+Três tipos de personagens 
+  -> Guerreio
+  -> Arqueiro
+  -> Cavaleiro
+
+Como funcionar a parida..:
+  ->Guerreio.:
+     G. > AR.
+     G. < CAV.
+   ->Arqueiro.:
+     AR. > CAV.
+     AR. < G.
+   ->Cavaeliro.:
+     CAV. > G.
+     CVA. < AR.
+! EM CASO DE OS DOIS ESCOLHER O MESMAS TROPAS VAI SER EMPARTE
+
+1h
+25MIN
+      
